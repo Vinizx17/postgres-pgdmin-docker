@@ -20,10 +20,7 @@ docker-compose up -d
 - **PostgreSQL:** banco de dados relacional.
 - **pgAdmin:** ferramenta gráfica de administração do PostgreSQL.
 
-## 🔐 Segurança
 
-- Variáveis sensíveis estão armazenadas no arquivo `.env` (não versionado).
-- Certifique-se de usar senhas seguras e não subir arquivos sensíveis ao repositório.
 
 ## 📁 Estrutura do Projeto
 
