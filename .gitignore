@@ -1,0 +1,8 @@
+.env
+*.env
+**/pgdata/
+**/pgadmin_data/
+.vscode/
+*.log
+*.tmp
+*.bak
